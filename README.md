@@ -13,6 +13,6 @@ and just like that it becomes a command on your system
 
 Unfortunatly I only own one android device so I could only test this for the Samsung Tab A9+
 
-This version doesnt support tcpip just wired however if you want a tcpip version check out my other repository (here)[https://github.com/pvp-god70254/android-camera-wireless]
+This version doesnt support tcpip just wired however if you want a tcpip version check out my other repository [here](https://github.com/pvp-god70254/android-camera-wireless)
 
 ### Thanks for using my project
